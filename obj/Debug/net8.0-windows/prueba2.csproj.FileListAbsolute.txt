@@ -1,0 +1,15 @@
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\bin\Debug\net8.0-windows\prueba2.exe
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\bin\Debug\net8.0-windows\prueba2.deps.json
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\bin\Debug\net8.0-windows\prueba2.runtimeconfig.json
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\bin\Debug\net8.0-windows\prueba2.dll
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\bin\Debug\net8.0-windows\prueba2.pdb
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\obj\Debug\net8.0-windows\prueba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\obj\Debug\net8.0-windows\prueba2.AssemblyInfoInputs.cache
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\obj\Debug\net8.0-windows\prueba2.AssemblyInfo.cs
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\obj\Debug\net8.0-windows\prueba2.csproj.CoreCompileInputs.cache
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\obj\Debug\net8.0-windows\prueba2.sourcelink.json
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\obj\Debug\net8.0-windows\prueba2.dll
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\obj\Debug\net8.0-windows\refint\prueba2.dll
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\obj\Debug\net8.0-windows\prueba2.pdb
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\obj\Debug\net8.0-windows\prueba2.genruntimeconfig.cache
+C:\Users\Javier\OneDrive\Documentos\GitHub\prueba2\obj\Debug\net8.0-windows\ref\prueba2.dll
